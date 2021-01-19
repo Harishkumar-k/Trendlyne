@@ -1,0 +1,9 @@
+C:\Users\gssharik\Documents\Trendlyne_Automation\Trendlyne.Broweser.Data\bin\Debug\netstandard2.0\Trendlyne.Broweser.Data.deps.json
+C:\Users\gssharik\Documents\Trendlyne_Automation\Trendlyne.Broweser.Data\bin\Debug\netstandard2.0\Trendlyne.Broweser.Data.dll
+C:\Users\gssharik\Documents\Trendlyne_Automation\Trendlyne.Broweser.Data\bin\Debug\netstandard2.0\Trendlyne.Broweser.Data.pdb
+C:\Users\gssharik\Documents\Trendlyne_Automation\Trendlyne.Broweser.Data\obj\Debug\netstandard2.0\Trendlyne.Broweser.Data.csprojAssemblyReference.cache
+C:\Users\gssharik\Documents\Trendlyne_Automation\Trendlyne.Broweser.Data\obj\Debug\netstandard2.0\Trendlyne.Broweser.Data.AssemblyInfoInputs.cache
+C:\Users\gssharik\Documents\Trendlyne_Automation\Trendlyne.Broweser.Data\obj\Debug\netstandard2.0\Trendlyne.Broweser.Data.AssemblyInfo.cs
+C:\Users\gssharik\Documents\Trendlyne_Automation\Trendlyne.Broweser.Data\obj\Debug\netstandard2.0\Trendlyne.Broweser.Data.csproj.CoreCompileInputs.cache
+C:\Users\gssharik\Documents\Trendlyne_Automation\Trendlyne.Broweser.Data\obj\Debug\netstandard2.0\Trendlyne.Broweser.Data.dll
+C:\Users\gssharik\Documents\Trendlyne_Automation\Trendlyne.Broweser.Data\obj\Debug\netstandard2.0\Trendlyne.Broweser.Data.pdb
